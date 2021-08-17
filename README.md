@@ -15,7 +15,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=matheusccouto&theme=default)](https://github.com/matheusccouto/)
 
-### Porfolio
+### Portfolio
 
 - :soccer: [palpiteiro](https://github.com/matheusccouto/palpiteiro) Fantasy soccer tips with machine learning and genetic algorithm. Visit the web app [here](https://share.streamlit.io/matheusccouto/palpiteiro/main/app.py).
 - :football: [college-football-rankings](https://github.com/matheusccouto/college-football-rankings) NCAA college football unbiased ranker. Visit the web app [here](https://share.streamlit.io/matheusccouto/college-football-rankings/main/app.py).
