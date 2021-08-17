@@ -21,8 +21,8 @@
 - :football: [college-football-rankings](https://github.com/matheusccouto/college-football-rankings) NCAA college football unbiased ranker. Visit the web app [here](https://share.streamlit.io/matheusccouto/college-football-rankings/main/app.py).
 - :spades: [bluff](https://github.com/matheusccouto/bluff) Pythonic poker framework. Install it with [pip install bluff](https://pypi.org/project/bluff/).
 - :diamonds: [poker-coach](https://github.com/matheusccouto/poker-coach) Practice no-limit Hold'em using game theory. Visit the web app [here](https://share.streamlit.io/matheusccouto/poker-coach/pokercoach.py).
-- :teacher: [analise-da-educacao-de-base-brasileira](https://github.com/matheusccouto/analise-da-educacao-de-base-brasileira) Data analysis from brazilian basic education (portuguese only).
-- :open_file_folder: [humble-bundle-organizer](https://github.com/matheusccouto/humble-bundle-organizer) Organize content bought from [humblebundle.com](https://www.humblebundle.com/)
+- :teacher: [analise-da-educacao-de-base-brasileira](https://github.com/matheusccouto/analise-da-educacao-de-base-brasileira) Data analysis from brazilian basic education using brazilian government data (portuguese only).
+- :open_file_folder: [humble-bundle-organizer](https://github.com/matheusccouto/humble-bundle-organizer) Organize content bought from [humblebundle.com](https://www.humblebundle.com/).
 
 ### Contact
 
