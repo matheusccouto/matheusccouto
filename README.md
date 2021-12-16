@@ -3,7 +3,7 @@
 ### About me
 
 - :snake: Pythonista
-- :brain: Artificial intelligence enthusiastic
+- :brain: Data Scientist
 - :gear: Mechanical engineer
 - :book: Continuous learning
 
