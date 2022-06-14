@@ -1,0 +1,20 @@
+name: CI
+on:
+  push:
+    branches:
+      - "main"
+  workflow_dispatch:
+jobs:
+  generate-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Markdown to PDF and HTML
+        uses: BaileyJM02/markdown-to-pdf@v1
+        with:
+          input_dir: resume
+          output_dir: artifact
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v3.1.0
+        with:
+          path: artifact
