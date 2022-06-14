@@ -1,9 +1,7 @@
 # Matheus Couto
-matheusccouto@mail.com  · 
-[linkedin.com/in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · 
-[github.com/matheusccouto](https://github.com/matheusccouto)
+matheusccouto@mail.com · [linkedin.com/in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · [github.com/matheusccouto](https://github.com/matheusccouto)
 
----
+Brazil & Portugal dual-citizenship. Currently living in Rio de Janeiro.
 
 ## Experience
 
@@ -21,8 +19,6 @@ matheusccouto@mail.com  ·
 
 *Python · Test Driven Development · CI/CD · Object-Oriented Programming · Software Engineering · Git · Docker · Data Visualization · Data Analysis · Orcaflex · Oil & Gas*
 
----
-
 ## Education
 
 ### BEng, Mechanical Engineering, CEFET/RJ
@@ -34,8 +30,6 @@ matheusccouto@mail.com  ·
 2021 - 2022 (Remote)
 
 *Sponsored by TechnipFMC*
-
----
 
 ## Side Projects
 
