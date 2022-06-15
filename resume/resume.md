@@ -1,5 +1,5 @@
 # Matheus Couto
-[matheusccouto@mail.com](mailto:matheusccouto@gmail.com) · [linkedin.com/in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · [github.com/matheusccouto](https://github.com/matheusccouto)
+[matheusccouto@gmail.com](mailto:matheusccouto@gmail.com) · [linkedin.com/in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · [github.com/matheusccouto](https://github.com/matheusccouto)
 
 Brazilian and Portuguese dual-citizenship. Currently living in Rio de Janeiro.
 
