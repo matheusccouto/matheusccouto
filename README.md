@@ -17,7 +17,7 @@
 
 ### Portfolio
 
-- :soccer: [palpiteiro](https://github.com/matheusccouto/palpiteiro) Fantasy soccer tips with machine learning and genetic algorithm. Visit the web app [here](https://share.streamlit.io/matheusccouto/palpiteiro/main/app.py).
+- :soccer: [palpiteiro](https://github.com/matheusccouto/palpiteiro) Fantasy soccer tips with machine learning and genetic algorithm. Visit the web app [here](https://matheusccouto-palpiteiro-streamlitapp-bha1f1.streamlitapp.com/).
 - :football: [college-football-rankings](https://github.com/matheusccouto/college-football-rankings) NCAA college football unbiased ranker. Visit the web app [here](https://share.streamlit.io/matheusccouto/college-football-rankings/main/app.py).
 - :spades: [bluff](https://github.com/matheusccouto/bluff) Pythonic poker framework. Install it with [pip install bluff](https://pypi.org/project/bluff/).
 - :diamonds: [poker-coach](https://github.com/matheusccouto/poker-coach) Practice no-limit Hold'em using game theory. Visit the web app [here](https://share.streamlit.io/matheusccouto/poker-coach/pokercoach.py).
