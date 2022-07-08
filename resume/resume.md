@@ -1,5 +1,5 @@
 # Matheus Couto
-[matheusccouto@gmail.com](mailto:matheusccouto@gmail.com) · [linkedin.com/in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · [github.com/matheusccouto](https://github.com/matheusccouto)
+[matheusccouto@gmail.com](mailto:matheusccouto@gmail.com) · [linkedin.com/in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · [github.com/matheusccouto](https://github.com/matheusccouto) · +55 (21) 995521051
 
 Brazilian and Portuguese dual-citizenship. Currently living in Rio de Janeiro.
 
@@ -42,6 +42,11 @@ End-to-end fantasy soccer assistant: [github.com/matheusccouto/palpiteiro](https
 Python poker package installable with pip: [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff)
 
 *CI/CD · Unit Testing · Object-Oriented Programming · Game Theory · Algorithms*
+
+### Scikit-YAML
+Define Scikit-Learn objects using YAML: [github.com/matheusccouto/scikit-yaml](https://github.com/matheusccouto/scikit-yaml)
+
+*CI/CD · Unit Testing · Data Structures & Algorithms*
 
 ### Poker Coach
 Poker practicing mini-game: [github.com/matheusccouto/poker-coach](https://github.com/matheusccouto/poker-coach)
