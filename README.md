@@ -39,7 +39,9 @@
 
 [![bluff](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=bluff)](https://github.com/matheusccouto/bluff)
 
-[![scikit-yaml](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-yaml)](https://github.com/matheusccouto/scikit-yaml)
+[![scikit-dict](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-dict)](https://github.com/matheusccouto/scikit-dict)
+
+[![scikit-tune](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-tune)](https://github.com/matheusccouto/scikit-tune)
 
 [![college-football-rankings](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=college-football-rankings)](https://github.com/matheusccouto/college-football-rankings)
 
