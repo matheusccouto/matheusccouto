@@ -10,14 +10,14 @@ Nov 2021 - Current (Remote)
 
 *Develop data products and data platform*
 
-*Python · SQL · AWS · dbt · Snowflake · Agile · ETL · Serverless · Linux · Test Driven Development · CI/CD · Object-Oriented Programming · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
+*Python · SQL · AWS · dbt · Snowflake · Agile · Extract, Transform, Load (ETL) · Serverless · Linux · Test Driven Development · Continuous Integration and Continuous Delivery (CI/CD) · Object-Oriented Programming (OOP) · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
 
 ### Installation Analysis Engineer, TechnipFMC
 Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
 
 *Subsea installation simulation*
 
-*Python · Test Driven Development · CI/CD · Object-Oriented Programming · Software Engineering · Git · Docker · Data Visualization · Data Analysis · Orcaflex · Oil & Gas*
+*Python · Test Driven Development · Continuous Integration and Continuous Delivery (CI/CD) · Object-Oriented Programming (OOP) · Software Engineering · Git · Docker · Data Visualization · Data Analysis · Orcaflex · Oil & Gas*
 
 ## Education
 
@@ -36,22 +36,22 @@ Nov 2020 - Jul 2021 (Remote)
 ### Palpiteiro
 End-to-end fantasy soccer assistant: [github.com/matheusccouto/palpiteiro](https://github.com/matheusccouto/palpiteiro)
 
-*AWS Lambda · AWS Step Functions · Google Big Query · Google Cloud Functions · dbt · CI/CD · ELT  · Gradient Boosting · Genetic Algorithm · Scikit-Learn · Streamlit · Unit Testing · Object-Oriented Programming*
+*AWS Lambda · AWS Step Functions · Google Big Query · Google Cloud Functions · dbt · Continuous Integration and Continuous Delivery (CI/CD) · Extract, Load, Transform (ELT) · Gradient Boosting · Genetic Algorithm · Scikit-Learn · Streamlit · Unit Testing · Object-Oriented Programming (OOP)*
 
 ### Bluff
 Python poker package installable with pip: [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff)
 
-*CI/CD · Unit Testing · Object-Oriented Programming · Game Theory · Algorithms*
+*Continuous Integration and Continuous Delivery (CI/CD) · Unit Testing · Object-Oriented Programming (OOP) · Game Theory · Algorithms*
 
 ### Scikit-Dict
 Define Scikit-Learn objects from dict: [github.com/matheusccouto/scikit-dict](https://github.com/matheusccouto/scikit-dict)
 
-*CI/CD · Unit Testing · Data Structures & Algorithms*
+*Continuous Integration and Continuous Delivery (CI/CD) · Unit Testing · Data Structures & Algorithms*
 
 ### Scikit-Tune
 A friendly way to tune scikit-learn pipelines: [github.com/matheusccouto/scikit-tune](https://github.com/matheusccouto/scikit-tune)
 
-*CI/CD · Unit Testing · Data Structures & Algorithms · Hyperparameters Tuning*
+*Continuous Integration and Continuous Delivery (CI/CD) · Unit Testing · Data Structures & Algorithms · Hyperparameters Tuning*
 
 ### Poker Coach
 Poker practicing mini-game: [github.com/matheusccouto/poker-coach](https://github.com/matheusccouto/poker-coach)
