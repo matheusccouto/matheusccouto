@@ -6,14 +6,14 @@ Brazilian and Portuguese dual-citizenship. Currently living in Rio de Janeiro.
 ## Experience
 
 ### Data Scientist, TechnipFMC
-2021 - Current (Remote)
+Nov 2021 - Current (Remote)
 
 *Develop data products and data platform*
 
-*Python · SQL · AWS · DBT · Snowflake · Agile · ETL · Serverless · Linux · Test Driven Development · CI/CD · Object-Oriented Programming · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
+*Python · SQL · AWS · dbt · Snowflake · Agile · ETL · Serverless · Linux · Test Driven Development · CI/CD · Object-Oriented Programming · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
 
 ### Installation Analysis Engineer, TechnipFMC
-2019 - 2021 (Rio de Janeiro, Brazil)
+Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
 
 *Subsea installation simulation*
 
@@ -27,7 +27,7 @@ Brazilian and Portuguese dual-citizenship. Currently living in Rio de Janeiro.
 *Including two terms at the University of Alabama at Birmingham*
 
 ### Data Science, Digital House
-2021 - 2022 (Remote)
+Nov 2020 - Jul 2021 (Remote)
 
 *Sponsored by TechnipFMC*
 
@@ -36,17 +36,22 @@ Brazilian and Portuguese dual-citizenship. Currently living in Rio de Janeiro.
 ### Palpiteiro
 End-to-end fantasy soccer assistant: [github.com/matheusccouto/palpiteiro](https://github.com/matheusccouto/palpiteiro)
 
-*AWS Lambda · AWS Step Functions · Google Big Query · DBT · CI/CD · ELT  · Gradient Boosting · Genetic Algorithm · Scikit-Learn · Mlflow · Streamlit · Telegram · Unit Testing · Object-Oriented Programming*
+*AWS Lambda · AWS Step Functions · Google Big Query · Google Cloud Functions · dbt · CI/CD · ELT  · Gradient Boosting · Genetic Algorithm · Scikit-Learn · Streamlit · Unit Testing · Object-Oriented Programming*
 
 ### Bluff
 Python poker package installable with pip: [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff)
 
 *CI/CD · Unit Testing · Object-Oriented Programming · Game Theory · Algorithms*
 
-### Scikit-YAML
-Define Scikit-Learn objects using YAML: [github.com/matheusccouto/scikit-yaml](https://github.com/matheusccouto/scikit-yaml)
+### Scikit-Dict
+Define Scikit-Learn objects from dict: [github.com/matheusccouto/scikit-dict](https://github.com/matheusccouto/scikit-dict)
 
 *CI/CD · Unit Testing · Data Structures & Algorithms*
+
+### Scikit-Tune
+A friendly way to tune scikit-learn pipelines: [github.com/matheusccouto/scikit-tune](https://github.com/matheusccouto/scikit-tune)
+
+*CI/CD · Unit Testing · Data Structures & Algorithms · Hyperparameters Tuning*
 
 ### Poker Coach
 Poker practicing mini-game: [github.com/matheusccouto/poker-coach](https://github.com/matheusccouto/poker-coach)
