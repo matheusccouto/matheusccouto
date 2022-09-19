@@ -10,6 +10,7 @@
 ![snowflake](https://img.shields.io/badge/Snowflake-29B5E8?&logo=snowflake&logoColor=white)
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![serverless](https://img.shields.io/badge/Serverless-FD5750?&logo=serverless&logoColor=white)
+![airflow](https://img.shields.io/badge/Airflow-017CEE?&logo=apacheairflow&logoColor=white)
 ![actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&logo=github-actions&logoColor=white)
 ![codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=white)
 ![mlflow](https://img.shields.io/badge/MLFlow-0194E2?logo=mlflow&logoColor=white)
