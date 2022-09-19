@@ -10,7 +10,7 @@ Nov 2021 - Current (Remote)
 
 *Develop data products and data platform*
 
-*Python · SQL · AWS · dbt · Snowflake · Agile · Extract, Transform, Load (ETL) · Serverless · Linux · Test Driven Development · Continuous Integration and Continuous Delivery (CI/CD) · Object-Oriented Programming (OOP) · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
+*Python · SQL · AWS · dbt · Snowflake · Agile · Extract, Transform, Load (ETL) · Serverless · Linux · Test Driven Development · Continuous Integration and Continuous Delivery (CI/CD) · Object-Oriented Programming (OOP) · Design Patterns · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
 
 ### Installation Analysis Engineer, TechnipFMC
 Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
