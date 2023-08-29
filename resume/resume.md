@@ -13,8 +13,6 @@ Nov 2021 - Current (Remote)
 
 *Python · SQL · AWS · dbt · Snowflake · Agile · ETL · Serverless · Linux · TDD · CI/CD · OOP · Design Patterns · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
 
----
-
 ### **TechnipFMC** | Installation Analysis Engineer
 Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
 
@@ -28,8 +26,6 @@ Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
 2012 - 2018 (Rio de Janeiro Brazil)
 
 *Including two terms at the University of Alabama at Birmingham*
-
----
 
 ### **Data Science** | Digital House
 Nov 2020 - Jul 2021 (Remote)
