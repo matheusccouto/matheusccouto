@@ -20,7 +20,7 @@ Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
 ## Education
 
 ### **BEng in Mechanical Engineering** | CEFET/RJ
-2012 - 2018 (Rio de Janeiro Brazil)
+Jan 2012 - Dec 2018 (Rio de Janeiro Brazil)
 
 *Including two terms at the University of Alabama at Birmingham*
 
