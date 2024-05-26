@@ -1,24 +1,21 @@
 # Matheus Couto
 [matheusccouto@gmail.com](mailto:matheusccouto@gmail.com) · [in/matheusccouto](https://www.linkedin.com/in/matheusccouto) · [github.com/matheusccouto](https://github.com/matheusccouto)
 
-Brazilian and Portuguese.  
-Based in Rio de Janeiro, Brazil.
-
 ## Experience
 
 ### **TechnipFMC** | Data Scientist
-Nov 2021 - Current (Remote)
+Nov 2021 - Current (Rio de Janeiro, Brazil)
 
-*Develop data products and data platform*
+* *Developed a retrieval augmented generation (RAG) chatbot using AWS.*
+* *Created and maintained data pipelines in Snowflake using dbt.*
+* *Collaborated on the implementation of an AI governance framework to ensure responsible AI.*
 
-*Python · SQL · AWS · dbt · Snowflake · Agile · ETL · Serverless · Linux · TDD · CI/CD · OOP · Design Patterns · Software Engineering · Docker · Data Visualization · Data Analysis · Analytics · Oil & Gas*
+*Python · SQL · AWS · Generative AI · Machine Learning · Snowflake ·  dbt*
 
 ### **TechnipFMC** | Installation Analysis Engineer
 Jan 2019 - Oct 2021 (Rio de Janeiro, Brazil)
 
-*Subsea installation simulation*
-
-*Python · TDD · CI/CD · OOP · Software Engineering · Git · Docker · Data Visualization · Data Analysis · Orcaflex · Oil & Gas*
+*Python · Orcaflex · Data Analysis & Visualization*
 
 ## Education
 
@@ -35,31 +32,7 @@ Nov 2020 - Jul 2021 (Remote)
 ## Side Projects
 
 ### Palpiteiro
-End-to-end fantasy soccer assistant: [github.com/matheusccouto/palpiteiro](https://github.com/matheusccouto/palpiteiro)
-
-*AWS Lambda · AWS Step Functions · Google Big Query · Google Cloud Functions · dbt · CI/CD · ELT · Gradient Boosting · Genetic Algorithm · Scikit-Learn · Streamlit · Unit Testing · OOP*
+*Developed a cloud-based fantasy soccer assistant that uses machine learning to predict player performance and optimize team drafts. Visit at [github.com/matheusccouto/palpiteiro](https://github.com/matheusccouto/palpiteiro).*
 
 ### Bluff
-Python poker package installable with pip: [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff)
-
-*CI/CD · Unit Testing · OOP · Game Theory · Algorithms*
-
-### Scikit-Dict
-Define Scikit-Learn objects from dict: [github.com/matheusccouto/scikit-dict](https://github.com/matheusccouto/scikit-dict)
-
-*CI/CD · Unit Testing · Data Structures & Algorithms*
-
-### Scikit-Tune
-A friendly way to tune scikit-learn pipelines: [github.com/matheusccouto/scikit-tune](https://github.com/matheusccouto/scikit-tune)
-
-*CI/CD · Unit Testing · Data Structures & Algorithms · Hyperparameters Tuning*
-
-### Poker Coach
-Poker practicing mini-game: [github.com/matheusccouto/poker-coach](https://github.com/matheusccouto/poker-coach)
-
-*Web Development · Streamlit · Data Visualization · Game Theory*
-
-### College Football Rankings
-NCAA college football unbiased ranker: [github.com/matheusccouto/college-football-rankings](https://github.com/matheusccouto/college-football-rankings)
-
-*Web Development · Streamlit · Algorithms · Data Visualization*
+Developed a Python package, leveraging object-oriented programming, game theory and algorithms for poker hand analysis. Visit at [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff).
