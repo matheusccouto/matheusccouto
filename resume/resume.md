@@ -35,4 +35,4 @@ Nov 2020 - Jul 2021 (Remote)
 *Developed a cloud-based fantasy soccer assistant that uses machine learning to predict player performance and optimize team drafts. Visit at [github.com/matheusccouto/palpiteiro](https://github.com/matheusccouto/palpiteiro).*
 
 ### Bluff
-Developed a Python package, leveraging object-oriented programming, game theory and algorithms for poker hand analysis. Visit at [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff).
+*Created a Python package, leveraging object-oriented programming, game theory and algorithms for poker hand analysis. Visit at [github.com/matheusccouto/bluff](https://github.com/matheusccouto/bluff).*
