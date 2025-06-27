@@ -12,7 +12,7 @@ Machine Learning Engineer with 4 years of focused experience designing, building
 
 * Specializes in Generative AI (LLMs, RAG, agents) and MLOps to drive innovation and deliver measurable business impact.
 * Proven expertise in architecting scalable data pipelines and AI solutions using Python, AWS, and Snowflake.
-* Adept at leading complex projects and collaborating cross-functionally to accelerate AI feature development.
+* Experienced in leading complex projects and collaborating cross-functionally to accelerate AI feature development.
 
 ---
 
